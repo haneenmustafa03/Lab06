@@ -9,6 +9,7 @@ public class softwareEngineering {
         System.out.println("Input second number");
         int num2 = scanner.nextInt();
 
+        int num3 = 3;
         System.out.println(num1 + num2);
         
     }
