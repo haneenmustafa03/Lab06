@@ -9,7 +9,7 @@ public class softwareEngineering {
         System.out.println("Input second number");
         int num2 = scanner.nextInt();
 
-        int num3 = 4;
+        int num3 = 6;
         System.out.println(num1 + num2);
         
     }
